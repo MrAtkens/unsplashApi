@@ -1,0 +1,133 @@
+hr{
+    border: 3px solid white;
+    margin: .4em 0em 0em 1.2em;
+}
+a{
+    text-decoration: none;
+    color: white;
+}
+
+h2{
+    padding-bottom: .1em;
+}
+h3{
+    font-size: 16pt;
+    margin: 0em 0em 0em .5em;
+}
+
+h4{
+    margin: 0em 0em 0em 1.2em !important;
+}
+
+.user-info-text h3 {
+    margin: 0em 0em 0em .8em;
+}
+
+.photoPage{
+    padding: 2.7em;
+}
+.zoompro{
+    width: 70%;
+    height: 50%;
+}
+
+.info-right{
+    margin-left: 2.5em;
+}
+
+.user-place h2, h3, h4 {
+    margin-left: .3em;
+    color: rgba(255, 255, 255, 1);
+    font-weight: 600;
+}
+
+.pdb-10{
+    padding-bottom: .4em;
+}
+
+.text-center{
+    text-align: center;
+}
+
+.user-place{
+    display: flex;
+}
+
+.description{
+    margin-top: 1em
+}
+
+.user-stats{
+    color: white;
+    display: inline-flex;
+    margin: .8em 0em 0em .8em;
+}
+
+.tags{
+    padding: .5em;
+    margin: .8em .8em 0em 0em;
+    background-color: #333;
+    border: 1px white solid;
+    border-radius: .5em;
+    color: white;
+    cursor: pointer;
+}
+
+.stats{
+    padding-left: .7em;
+    padding-right: .7em;
+}
+
+.user-img {
+    width: 9.375em;
+    height: 9.375em;
+    background-size: cover;
+    display: inline-block;
+    border-radius: 50%;
+}
+
+.image-description{
+    margin-top: 1.5em;
+}
+
+.image-description h3{
+    font-size: 16pt;
+    font-weight: 600;
+}
+
+.tag-layer{
+    margin: 1em 0em 0em .5em;
+}
+
+.stats-container{
+    text-align: center;
+    position: relative;
+    margin-top: 2em;
+    width: 100%;
+    height: 5.2rem;
+}
+
+.icon-button{
+    margin-right: .5em;
+}
+
+.icon-text{
+    text-align: center;
+}
+
+.link{
+    color: #00B0FF
+}
+
+.social {
+    display: grid;
+    position: relative;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    text-align: right;
+}
+.social-icon {
+    margin-right: 1em !important;
+    margin-bottom: 1em !important;
+}
